@@ -3,6 +3,10 @@
 This is [Andy McEvoy's awesome utility](https://github.com/mcevoyandy/urdf_to_dh) but with all the ROS bullshit stripped out and an additional option to generate a simplified URDF file consisting only of non-fixed joints. I needed the latter to simplify a URDF description of a robot arm consisting only of revolute joints.
 Please see the [original repository](https://github.com/mcevoyandy/urdf_to_dh) for documentation.
 
+Forked from: [Bart Trzynadlowski](https://github.com/trzy/urdf_to_dh)
+
+Added **setup.py** file
+
 To run the utility:
 
 ```
