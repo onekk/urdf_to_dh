@@ -5,7 +5,8 @@ Please see the [original repository](https://github.com/mcevoyandy/urdf_to_dh) f
 
 Forked from: [Bart Trzynadlowski](https://github.com/trzy/urdf_to_dh)
 
-Added **setup.py** file
+
+onekk Added a minimal **setup.py** file to make installable with pip.
 
 To run the utility:
 
